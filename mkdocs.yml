@@ -20,6 +20,12 @@ nav:
     - foundry-basics/create-actor.md
     - foundry-basics/tokens.md
     - foundry-basics/adding-players.md
+  - Foundry Player's Guide:
+    - foundry-players-guide/index.md
+    - foundry-players-guide/user-interface.md
+    - foundry-players-guide/token-features.md
+    - foundry-players-guide/combat-tracker.md
+    - foundry-players-guide/chat-features.md
   - DungeonDraft Basics:
     - dungeondraft-basics/index.md
     - dungeondraft-basics/creating-maps.md

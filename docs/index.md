@@ -23,7 +23,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Install [Foundry VTT](https://foundryvtt.com/) on :material-microsoft-windows: Windows, :material-apple: Mac, or :material-linux: Linux.
 
-    [:octicons-arrow-right-24: Getting Started](install-foundry-vtt.md)
+    [:octicons-arrow-right-24: Getting Started](foundry-basics/install-foundry-vtt.md)
 
 -   :fontawesome-solid-dice:{ .lg .middle } __Install a Game System__
     
@@ -31,7 +31,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Featuring almost 300 community developed options.
 
-    [:octicons-arrow-right-24: Install Game System](install-game-system.md)
+    [:octicons-arrow-right-24: Install Game System](foundry-basics/install-game-system.md)
 
 -   :fontawesome-solid-earth-asia:{ .lg .middle } __Create a World__
     
@@ -39,7 +39,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
     
     Campaign prep and gameplay occurs in a World.
 
-    [:octicons-arrow-right-24: Create a World](create-world.md)
+    [:octicons-arrow-right-24: Create a World](foundry-basics/create-world.md)
 
 -   :fontawesome-solid-display:{ .lg .middle } __Explore the UI__
     
@@ -47,7 +47,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Familiarize yourself with the Foundry VTT interface.
 
-    [:octicons-arrow-right-24: UI Reference](foundry-interface.md)
+    [:octicons-arrow-right-24: UI Reference](foundry-basics/foundry-interface.md)
 
 -   :fontawesome-solid-map:{ .lg .middle } __Create a Scene__
     
@@ -55,7 +55,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Run theater of the mind or tactical battlemaps.
 
-    [:octicons-arrow-right-24: Create a Scene](create-scene.md)
+    [:octicons-arrow-right-24: Create a Scene](foundry-basics/create-scene.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Create an Actor__
     
@@ -63,7 +63,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create Actors for your players, creatures, and NPCs.
 
-    [:octicons-arrow-right-24: Create an Actor](create-actor.md)
+    [:octicons-arrow-right-24: Create an Actor](foundry-basics/create-actor.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Place a Token__
     
@@ -71,7 +71,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Place an Actor in a Scene to make a Token.
 
-    [:octicons-arrow-right-24: Place a Token](tokens.md)
+    [:octicons-arrow-right-24: Place a Token](foundry-basics/tokens.md)
 
 -   :fontawesome-solid-users:{ .lg .middle } __Add Players__
     
@@ -79,9 +79,49 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create player accounts and invite them to your World.
 
-    [:octicons-arrow-right-24: Invite Your Players](adding-players.md)
+    [:octicons-arrow-right-24: Invite Your Players](foundry-basics/adding-players.md)
 </div>
 
+---
+
+# The Foundry VTT Player's Guide
+Let me guess: Your DM has been raving about this thing called Foundry VTT for a couple weeks now and they’ve decided to start a game online or switch your game from Roll20 or Fantasy Grounds over to it. Now **you** have to learn how to play online for the first time or at least how to do it in Foundry. I’m going to try and make that as easy as possible. These guides will walk you through the Foundry UI, using your character sheet and Tokens, combat, and chat and webcam settings.
+
+<div class="grid cards" markdown>
+-   :fontawesome-solid-display:{ .lg .middle } __The User Interface__
+    
+    ---
+
+    Familiarize yourself with the Foundry VTT interface.
+
+    [:octicons-arrow-right-24: Getting Started](foundry-players-guide/user-interface.md)
+
+-   :fontawesome-solid-user:{ .lg .middle } __Using Your Token__
+    
+    ---
+
+    Learn how to use your Token and navigate Scenes.
+
+    [:octicons-arrow-right-24: Using Your Token](foundry-players-guide/token-features.md)
+
+-   :material-sword-cross:{ .lg .middle } __The Combat Tracker__
+    
+    ---
+    
+    Join the battle, roll for initiative and make your attack.
+
+    [:octicons-arrow-right-24: Join the Battle](foundry-players-guide/combat-tracker.md)
+
+-   :fontawesome-solid-comments:{ .lg .middle } __Chat with Friends__
+    
+    ---
+
+    Send messages, whispers, and dice rolls to chat.
+
+    [:octicons-arrow-right-24: Chat with Friends](foundry-players-guide/chat-features.md)
+</div>
+
+---
 
 # The DungeonDraft Basics
 
@@ -94,7 +134,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Create your first battlemap.
 
-    [:octicons-arrow-right-24: Getting Started](creating-maps.md)
+    [:octicons-arrow-right-24: Getting Started](dungeondraft-basics/creating-maps.md)
 
 -   :fontawesome-solid-shapes:{ .lg .middle } __The Design Tools__
     
@@ -102,7 +142,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Create buildings, walls, doors, and caves.
 
-    [:octicons-arrow-right-24: Build Your Map](design-tools.md)
+    [:octicons-arrow-right-24: Build Your Map](dungeondraft-basics/design-tools.md)
 
 -   :material-terrain:{ .lg .middle } __The Terrain Tools__
     
@@ -110,7 +150,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
     
     Change the terrain, place paths, and add water features.
 
-    [:octicons-arrow-right-24: Lay Your Terrain](terrain-tools.md)
+    [:octicons-arrow-right-24: Lay Your Terrain](dungeondraft-basics/terrain-tools.md)
 
 -   :fontawesome-solid-object-group:{ .lg .middle } __The Objects Tools__
     
@@ -118,7 +158,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Place objects like furniture, books, rugs, and more.
 
-    [:octicons-arrow-right-24: Decorate Your Map](object-tools.md)
+    [:octicons-arrow-right-24: Decorate Your Map](dungeondraft-basics/object-tools.md)
 
 -   :fontawesome-solid-lightbulb:{ .lg .middle } __The Lighting and Text Tools__
     
@@ -126,7 +166,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Enhance your map with dramatic lighting effects.
 
-    [:octicons-arrow-right-24: Light Up Your Map](lighting-text-tools.md)
+    [:octicons-arrow-right-24: Light Up Your Map](dungeondraft-basics/lighting-text-tools.md)
 
 -   :fontawesome-solid-stairs:{ .lg .middle } __Making Multi-Level Maps__
     
@@ -134,7 +174,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Add dimensionality and higher floors to your maps.
 
-    [:octicons-arrow-right-24: Go to the Next Level](multi-level-maps.md)
+    [:octicons-arrow-right-24: Go to the Next Level](dungeondraft-basics/multi-level-maps.md)
 
 -   :material-tools:{ .lg .middle } __Making Prefabs__
     
@@ -142,7 +182,7 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Speed up map creation with prefabs.
 
-    [:octicons-arrow-right-24: Reuse Your Favorite Objects](making-prefabs-select-tool.md)
+    [:octicons-arrow-right-24: Reuse Your Favorite Objects](dungeondraft-basics/making-prefabs-select-tool.md)
 
 -   :fontawesome-solid-gears:{ .lg .middle } __Map Settings, Image Tracing, and Exporting__
     
@@ -150,5 +190,5 @@ This guide is broken into 8 distinct parts and will take you step-by-step throug
 
     Trace an existing image and export your battlemap.
 
-    [:octicons-arrow-right-24: Export Your Battlemap](settings-tracing-exporting.md)
+    [:octicons-arrow-right-24: Export Your Battlemap](dungeondraft-basics/settings-tracing-exporting.md)
 </div>
