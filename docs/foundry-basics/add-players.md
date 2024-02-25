@@ -25,7 +25,8 @@ Players need an account set up in your World to log in. You'll also use this acc
 
 ---
 
-## Give a Player Ownership of an Actor
+## Give Players Ownership of an Actor
+Your players should own at least one Actor so they can interact with their character sheet and their Token on a Scene.
 
 <figure class="right w450" markdown>
   ![How to Configure Player Ownership](../assets/foundry-basics/adding-players/configure-ownership.webp){ loading=lazy }

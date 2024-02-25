@@ -60,7 +60,7 @@ It's easy to feel overwhelmed looking at the Scene Configuration options, but we
 
     <figure class="right w300" markdown>
         ![Scene Configuration: Basics Tab](../assets/foundry-basics/create-scene/scene-configuration-basics.webp)
-        <figcaption><span class="reference">:fontawesome-solid-image: Basics</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-image: Basics</span> Settings</figcaption>
     </figure>
 
     - **Scene Name:** You can name your Scene anything you'd like, including using emoji :eyes:! You'll use this name to find the Scene in the sidebar and in the Scene navigation bar at the top of the canvas.
@@ -71,7 +71,7 @@ It's easy to feel overwhelmed looking at the Scene Configuration options, but we
 
     <figure class="right w400" markdown>
         ![Scene Configuration: Grid](../assets/foundry-basics/create-scene/scene-configuration-grid.webp)
-        <figcaption><span class="reference">:fontawesome-solid-ruler: Grid</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-ruler: Grid</span> Settings</figcaption>
     </figure>
 
     **Grid Type:** The grid shape for your Scene. You can choose from:
@@ -139,13 +139,6 @@ In the <span class="reference">:fontawesome-solid-ruler: Grid</span> tab of the 
 4. **Background Image Offset:** Move the main content of your Scene to the left/right (X) and up/down (Y).
 
 ### Using the Grid Configuration Tool
-1. Reduce the `Grid Size` by 10 until the square in the top-left starts to align.
-
-    ??? foundry-tip "Realigning the Scene's Grid"
-        As you change the `Grid Size` you may notice the grid lines no longer align with the top left corner of the Scene. You can fix this by temporarily changing the `Background Image Scale` by holding ++shift++ + Scrolling up 1 and then down 1. You can see an example of doing this in the demo below.
-
-2. It appears that `70` is the correct value.
-3. Now that the Scene is aligned click <span class="reference">:fontawesome-solid-floppy-disk: Save Changes</span> to finish.
 
 <figure class="video_container" markdown>
   <video controls="true" allowfullscreen="true">
@@ -155,4 +148,10 @@ In the <span class="reference">:fontawesome-solid-ruler: Grid</span> tab of the 
   <figcaption markdown>Demo of the Gird Alignment Tool with [The Docks](../assets/foundry-basics/create-scene/the-docks.webp) map</figcaption>
 </figure>
 
+1. Reduce the `Grid Size` by 10 until the square in the top-left starts to align.
 
+    ??? foundry-tip "Realigning the Scene's Grid"
+        As you change the `Grid Size` you may notice the grid lines no longer align with the top left corner of the Scene. You can fix this by temporarily changing the `Background Image Scale` by holding ++shift++ + Scrolling up 1 and then down 1. You can see an example of doing this in the demo below.
+
+2. It appears that `70` is the correct value.
+3. Now that the Scene is aligned click <span class="reference">:fontawesome-solid-floppy-disk: Save Changes</span> to finish.

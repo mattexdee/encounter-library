@@ -13,13 +13,13 @@ nav:
   - Foundry Basics:
     - foundry-basics/index.md
     - foundry-basics/install-foundry-vtt.md
-    - foundry-basics/install-game-system.md
-    - foundry-basics/create-world.md
-    - foundry-basics/foundry-interface.md
-    - foundry-basics/create-scene.md
-    - foundry-basics/create-actor.md
+    - foundry-basics/game-systems.md
+    - foundry-basics/worlds.md
+    - foundry-basics/user-interface.md
+    - foundry-basics/scenes.md
+    - foundry-basics/actors.md
     - foundry-basics/tokens.md
-    - foundry-basics/adding-players.md
+    - foundry-basics/add-players.md
   - Foundry Player's Guide:
     - foundry-players-guide/index.md
     - foundry-players-guide/user-interface.md

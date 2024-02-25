@@ -3,7 +3,7 @@ icon: material/sword-cross
 ---
 
 # The Combat Tracker
-Running combat varies from game system to game system but let's take a look at how the basics of the combat tracker works in Foundry VTT.
+Running combat varies from Game System to Game System but let's take a look at how the basics of the combat tracker works in Foundry VTT.
 
 ---
 

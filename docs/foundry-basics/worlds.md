@@ -21,7 +21,7 @@ Worlds are where you'll run all of your games. You can run multiple campaigns in
 
 Once you have a Game System installed it's easy to create a World.
 
-1. Ensure you're on the <span class="reference">:fontawesome-solid-globe: Game Worlds</span> tab of the Setup screen.
+1. Ensure you're on the <span class="reference">:fontawesome-solid-earth-asia: Game Worlds</span> tab of the Setup screen.
 2. Press the <span class="reference">:fontawesome-solid-globe: Create World</span> button.
 3. Give your World a title with the `World Title` field.
 4. Select your Game System from the `Game System` dropdown.

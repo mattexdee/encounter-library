@@ -17,7 +17,7 @@ You can think of an Actor as the character sheet and a Token as the mini that re
 
     <figure class="right w300" markdown>
         ![Scene Configuration: Basics Tab](../assets/foundry-basics/tokens/token-identity-tab.webp)
-        <figcaption><span class="reference">:fontawesome-solid-user: Identity</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-user: Identity</span> Settings</figcaption>
     </figure>
     
     - **Display Name:** Controls when the Token's name is visible. The options include:
@@ -35,18 +35,17 @@ You can think of an Actor as the character sheet and a Token as the mini that re
 
     <figure class="right w400" markdown>
         ![Scene Configuration: Grid](../assets/foundry-basics/tokens/token-appearance-tab.webp)
-        <figcaption><span class="reference">:fontawesome-solid-expand: Appearance</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-expand: Appearance</span> Settings</figcaption>
     </figure>
 
-    **Image Path:** The image or video for the Token.
-
-    **Dimensions:** The number of grid spaces the Token takes up.
+    - **Image Path:** The image or video for the Token.
+    - **Dimensions:** The number of grid spaces the Token takes up.
 
 === ":fontawesome-solid-eye: Vision"
 
     <figure class="right w400" markdown>
         ![Token Configuration Vision Tab: Basic Configuration Sub-Tab](../assets/foundry-basics/tokens/token-vision-basic-tab.webp)
-        <figcaption><span class="reference">:fontawesome-solid-eye: Basic Configuration</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-eye: Basic Configuration</span> Settings</figcaption>
     </figure>
 
     This tab is broken into *even more* tabs, but don't worry, you only need to pay attention to the <span class="reference">:fontawesome-solid-eye: Basic Configuration</span> tab:
@@ -62,10 +61,10 @@ You can think of an Actor as the character sheet and a Token as the mini that re
 
      <figure class="right clearself w350" markdown>
         ![Token Configuration Light Tab: Basic Configuration Sub-Tab](../assets/foundry-basics/tokens/token-light-basic-tab.webp)
-        <figcaption><span class="reference">:fontawesome-solid-lightbulb: Light</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-lightbulb: Light</span> Settings</figcaption>
     </figure>
 
-    You can skip this section entirely if the Token isn't emitting any light like from a torch.
+    You can skip this section entirely if the Token isn't emitting any light (like from a torch).
 
     - **Light Radius:** The distance that the Token is emitting **dim** and **bright** light. For example: a torch might shine 40 feet of dim light and 20 feet of bright light.
 
@@ -73,7 +72,7 @@ You can think of an Actor as the character sheet and a Token as the mini that re
 
     <figure class="right clearself w300" markdown>
         ![Token Configuration: Resources Tab](../assets/foundry-basics/tokens/token-resources-tab.webp)
-        <figcaption><span class="reference">:fontawesome-solid-heart: Resources</span> everything you **need** to know</figcaption>
+        <figcaption>Important <span class="reference">:fontawesome-solid-heart: Resources</span> Settings</figcaption>
     </figure>
 
     - **Display Bars:** Controls when the Token's resource bars are visible. The options include:

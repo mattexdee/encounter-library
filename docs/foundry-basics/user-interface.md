@@ -2,7 +2,7 @@
 icon: fontawesome/solid/display
 ---
 
-# The Foundry VTT Interface
+# The User Interface
 This is the Foundry VTT interface you see when you log in for the first time. Let's break it down:
 
 <figure markdown>

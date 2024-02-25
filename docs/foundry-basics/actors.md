@@ -3,13 +3,13 @@ icon: fontawesome/solid/user
 ---
 
 # Actors
-Actors are what you'll use to represent your player's characters, creatures in the world, and NPCs as well as things like Vehicles and groups.
+Actors are what you'll use to represent your player's Characters, creatures in the world, and NPCs as well as things like Vehicles and Groups. You can think of an Actor as the character sheet or statblock of a creature.
 
 ---
 
 ## Create an Actor
 
-!!! info "Actor Types"
+??? foundry-tip "Actor Types"
 
     Most Game Systems have more than one type of Actor. For example, DnD5E has `Player Character`, `Non-Player Character`, `Vehicle`, and `Group`.
 

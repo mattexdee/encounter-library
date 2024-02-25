@@ -12,7 +12,7 @@ Our goal is to make it as easy as possible to run a game by showing you how to u
 
     I'll help you learn about features.
 
-This guide will walk you through setting up Foundry, creating a World, exploring the Foundry UI, making your first Scene, and inviting your players to your World. Feel free to skip around to the sections that interest you and keep an eye out for the Foundry Tip cards which highlight some lesser known features of Foundry VTT. Let's get started:
+This guide will walk you through setting up Foundry, creating a World, exploring the Foundry UI, making your first Scene, and inviting your players to your World. Feel free to skip around to the sections that interest you and keep an eye out for the Foundry Tip cards which highlight some lesser known features of Foundry VTT.
 
 <div class="clear"></div>
 
@@ -31,7 +31,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Featuring almost 300 community developed options.
 
-    [:octicons-arrow-right-24: Install Game System](foundry-basics/install-game-system.md)
+    [:octicons-arrow-right-24: Install Game System](foundry-basics/game-systems.md)
 
 -   :fontawesome-solid-earth-asia:{ .lg .middle } __Create a World__
     
@@ -39,7 +39,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
     
     Campaign prep and gameplay occurs in a World.
 
-    [:octicons-arrow-right-24: Create a World](foundry-basics/create-world.md)
+    [:octicons-arrow-right-24: Create a World](foundry-basics/worlds.md)
 
 -   :fontawesome-solid-display:{ .lg .middle } __Explore the UI__
     
@@ -47,7 +47,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Familiarize yourself with the Foundry VTT interface.
 
-    [:octicons-arrow-right-24: UI Reference](foundry-basics/foundry-interface.md)
+    [:octicons-arrow-right-24: UI Reference](foundry-basics/user-interface.md)
 
 -   :fontawesome-solid-map:{ .lg .middle } __Create a Scene__
     
@@ -55,7 +55,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Run theater of the mind or tactical battlemaps.
 
-    [:octicons-arrow-right-24: Create a Scene](foundry-basics/create-scene.md)
+    [:octicons-arrow-right-24: Create a Scene](foundry-basics/scenes.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Create an Actor__
     
@@ -63,7 +63,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create Actors for your players, creatures, and NPCs.
 
-    [:octicons-arrow-right-24: Create an Actor](foundry-basics/create-actor.md)
+    [:octicons-arrow-right-24: Create an Actor](foundry-basics/actors.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Place a Token__
     
@@ -79,7 +79,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create player accounts and invite them to your World.
 
-    [:octicons-arrow-right-24: Invite Your Players](foundry-basics/adding-players.md)
+    [:octicons-arrow-right-24: Invite Your Players](foundry-basics/add-players.md)
 </div>
 
 ---

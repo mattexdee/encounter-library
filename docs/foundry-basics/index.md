@@ -27,7 +27,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Featuring almost 300 community developed options.
 
-    [:octicons-arrow-right-24: Install Game System](install-game-system.md)
+    [:octicons-arrow-right-24: Install Game System](game-systems.md)
 
 -   :fontawesome-solid-earth-asia:{ .lg .middle } __Create a World__
     
@@ -35,7 +35,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
     
     Campaign prep and gameplay occurs in a World.
 
-    [:octicons-arrow-right-24: Create a World](create-world.md)
+    [:octicons-arrow-right-24: Create a World](worlds.md)
 
 -   :fontawesome-solid-display:{ .lg .middle } __Explore the UI__
     
@@ -43,7 +43,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Familiarize yourself with the Foundry VTT interface.
 
-    [:octicons-arrow-right-24: UI Reference](foundry-interface.md)
+    [:octicons-arrow-right-24: UI Reference](user-interface.md)
 
 -   :fontawesome-solid-map:{ .lg .middle } __Create a Scene__
     
@@ -51,7 +51,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Run theater of the mind or tactical battlemaps.
 
-    [:octicons-arrow-right-24: Create a Scene](create-scene.md)
+    [:octicons-arrow-right-24: Create a Scene](scenes.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Create an Actor__
     
@@ -59,7 +59,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create Actors for your players, creatures, and NPCs.
 
-    [:octicons-arrow-right-24: Create an Actor](create-actor.md)
+    [:octicons-arrow-right-24: Create an Actor](actors.md)
 
 -   :fontawesome-solid-user:{ .lg .middle } __Place a Token__
     
@@ -75,5 +75,5 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 
     Create player accounts and invite them to your World.
 
-    [:octicons-arrow-right-24: Invite Your Players](adding-players.md)
+    [:octicons-arrow-right-24: Invite Your Players](add-players.md)
 </div>

@@ -3,7 +3,7 @@ icon: fontawesome/solid/display
 ---
 
 # The User Interface
-This part of the guide is going to focus on the basic user interface. Be sure to check out the rest of the Player’s Guide which focuses on your character sheet, combat, rolling dice, reading and writing journals, controlling your token, and controlling your audio and video if you’re using Foundry’s built in video chat. I’ll also cover some shortcuts and nice quality of life tips. This will all be done using core Foundry features so some things might be different if your DM has installed modules to change how Foundry works. Let’s get started!
+This part of the guide is going to focus on the basic user interface. This will all be done using core Foundry features so some things might be different if your DM has installed modules to change how Foundry works. Let’s get started!
 
 ---
 
