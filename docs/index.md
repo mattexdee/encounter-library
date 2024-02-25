@@ -85,7 +85,7 @@ This guide will walk you through setting up Foundry, creating a World, exploring
 ---
 
 # The Foundry VTT Player's Guide
-Let me guess: Your DM has been raving about this thing called Foundry VTT for a couple weeks now and they’ve decided to start a game online or switch your game from Roll20 or Fantasy Grounds over to it. Now **you** have to learn how to play online for the first time or at least how to do it in Foundry. I’m going to try and make that as easy as possible. These guides will walk you through the Foundry UI, using your character sheet and Tokens, combat, and chat and webcam settings.
+Let me guess: Your DM has been raving about this thing called Foundry VTT for a couple weeks now and they’ve decided to start a game online or switch your game from Roll20 or Fantasy Grounds over to it. Now **you** have to learn how to play online for the first time or at least how to do it in Foundry. I’m going to try and make that as easy as possible. These guides will walk you through the Foundry UI, using your character sheet and Tokens, combat, and chat features.
 
 <div class="grid cards" markdown>
 -   :fontawesome-solid-display:{ .lg .middle } __The User Interface__
