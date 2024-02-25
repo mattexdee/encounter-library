@@ -1,0 +1,105 @@
+# Project Info
+site_name: Encounter Library
+site_author: Matt Ryan
+site_description: >-
+  Learn the tools to help you run a great game.
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2024 Matt Ryan
+
+# Configuration
+nav:
+  - Home: index.md
+  - Foundry Basics:
+    - foundry-basics/index.md
+    - foundry-basics/install-foundry-vtt.md
+    - foundry-basics/install-game-system.md
+    - foundry-basics/create-world.md
+    - foundry-basics/foundry-interface.md
+    - foundry-basics/create-scene.md
+    - foundry-basics/create-actor.md
+    - foundry-basics/tokens.md
+    - foundry-basics/adding-players.md
+  - DungeonDraft Basics:
+    - dungeondraft-basics/index.md
+    - dungeondraft-basics/creating-maps.md
+    - dungeondraft-basics/design-tools.md
+    - dungeondraft-basics/terrain-tools.md
+    - dungeondraft-basics/object-tools.md
+    - dungeondraft-basics/lighting-text-tools.md
+    - dungeondraft-basics/multi-level-maps.md
+    - dungeondraft-basics/making-prefabs-select-tool.md
+    - dungeondraft-basics/settings-tracing-exporting.md
+theme:
+  name: material
+  logo: assets/site/favicon.webp
+  favicon: assets/site/favicon.webp
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+  palette:
+    scheme: slate
+    primary: black
+    accent: blue
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - blog
+  - glightbox
+  - search
+  - tags
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: "#"
+watch:
+  - includes
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+      - manage
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/encounterlibrary
+      name: EncounterLibrary on YouTube
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/encounterlib
+      name: EncounterLib on Twitter
