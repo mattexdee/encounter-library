@@ -99,8 +99,13 @@ figure.w250 {
 
   /* Custom Button */
 .reference {
-    padding: 3px 6px 3px 3px;
-    border: 1px solid;
-    white-space: nowrap;
-    font-style: normal;
+    background-color: var(--md-typeset-kbd-color);
+    border-radius: 0.1rem;
+    box-shadow: 0 0.1rem 0 0.05rem var(--md-typeset-kbd-border-color), 0 0.1rem 0 var(--md-typeset-kbd-border-color), 0 -0.1rem 0.2rem var(--md-typeset-kbd-accent-color) inset;
+    color: var(--md-default-fg-color);
+    display: inline-block;
+    font-size: .75em;
+    padding: 0 0.6666666667em;
+    vertical-align: text-top;
+    word-break: break-word;
 }

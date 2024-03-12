@@ -55,7 +55,7 @@ Your players should own at least one Actor so they can interact with their chara
 2. Click on the <span class="reference">:fontawesome-solid-wifi: Invitation Links</span> button.
 3. Click on the <span class="reference">:fontawesome-solid-ethernet: Local Network</span> or <span class="reference">:fontawesome-solid-wifi: Internet</span> invitation link to copy it and send it to your players.
     - Choose the <span class="reference">:fontawesome-solid-ethernet: Local Network</span> link if your players are on the same wireless network as you, for example, if they're all at your house for an in-person game.
-    - Choose the <span class="reference">:fontawesome-solid-wifi: Internet</span> link if your players are not on the same wireless network than you and you're playing remotely.
+    - Choose the <span class="reference">:fontawesome-solid-wifi: Internet</span> link if your players are not on the same wireless network as you and you're playing remotely.
 
 !!! foundry-tip "What to do if you see a red X next to your Internet link:"
 
